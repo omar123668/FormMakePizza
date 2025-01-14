@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\bin\Debug\MyFirstWindFromsProject.exe.config
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\bin\Debug\MyFirstWindFromsProject.exe
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\bin\Debug\MyFirstWindFromsProject.pdb
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.Form_Drawing.resources
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.FrmOrderPizza.resources
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.Form2.resources
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.frmTextBox.resources
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.exe
+C:\Users\lenovo\Desktop\MyFirstWindFromsProject-master(1)\MyFirstWindFromsProject-master\obj\Debug\MyFirstWindFromsProject.pdb
