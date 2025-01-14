@@ -13,8 +13,8 @@ namespace MyFirstWindFromsProject
 {
     public partial class FrmOrderPizza : Form
     {
-        float TotalPrice = 0;
-        int Counter = 0;
+
+      
         public FrmOrderPizza()
         {
             InitializeComponent();
